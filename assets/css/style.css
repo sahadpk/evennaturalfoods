@@ -340,6 +340,11 @@ a.krishok-cart span {
 .menubar .logo {
     padding: 30px 0;
 }
+@media screen and (max-width: 780px) {
+    .menubar {
+     background-image: url(/assets/images/marble.jpg);
+    }
+  }
 .mainmenu {
     float: right;
 }
